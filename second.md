@@ -1,1 +1,1 @@
-modify in different ways. we have some text here second md.
+ we modify text in second file. we have some text here second md.
